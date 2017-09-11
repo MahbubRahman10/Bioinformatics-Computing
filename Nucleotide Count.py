@@ -18,3 +18,5 @@ dna="ATTCGAACCC"
 a,t,c,g=nucleotide_count(dna)
 
 print("A:", a, "T:", t,"C:", c, "G:", g)
+
+
