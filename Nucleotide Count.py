@@ -1,3 +1,4 @@
+
 def nucleotide_count(dna):
     A,T,C,G=0,0,0,0
     
